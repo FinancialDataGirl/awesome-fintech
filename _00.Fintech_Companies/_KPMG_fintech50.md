@@ -1,9 +1,68 @@
 # 毕马威中国金融科技50企业名单
 
-**时间**：2018-06-13  
+**时间**：2018-12-29
 **Author**：财报妹 https://weibo.com/marsfactory  
 **名单来源**：  
 - http://kpmg.com/cn/fintech50   
+
+### 毕马威2018中国金融科技50
+- [爱保科技](http://www.aibaoxian.com/)
+- [白骑士](https://www.baiqishi.com/)
+- [百融金服](http://www.baironginc.com/)
+- [百信银行](https://www.aibank.com/)
+- [保准牛](http://www.baozhunniu.com/)
+- [冰鉴科技](http://www.icekredit.com/)
+- [布比区块链](http://www.bubi.cn/)
+- [点融](https://www.dianrong.com/)
+- [豆包网](https://www.17doubao.com/)
+- [度小满金融](https://www.duxiaoman.com/)
+- [分布科技](http://www.onchain.com/)
+- [福米科技](https://www.webull.com/)
+- [富途证券](https://www.futu5.com/)
+- [厚本金融](https://www.houbank.com/)
+- [虎博科技](https://www.tigerobo.com/)
+- [慧择保险网](https://www.huize.com/)
+- [集奥聚合](http://www.geotmt.com/)
+- [金斧子](https://www.jfz.com/)
+- [京东数字科技](https://jr.jd.com/)
+- [今日投资](http://www.investoday.com.cn/)
+- [金融壹账通](http://www.oneconnectft.com/)
+- [老虎证券](https://www.itiger.com/)
+- [连连支付](https://www.lianlianpay.com/)
+- [陆金所](https://www.lu.com/)
+- [马上金融](https://www.msxf.com/)
+- [蚂蚁金服](https://www.antfin.com/)
+- [妙盈科技](https://www.miotech.com/)
+- [浅橙科技](https://www.xianjincard.com/)
+- [蔷薇大树金融](https://www.bigtreefinance.com/)
+- [启赟金融](https://ipaylinks.com/)
+- [实盈科技](http://www.supwincapital.com/)
+- [数库科技](http://www.chinascope.com/)
+- [苏宁金融](https://jinrong.suning.com/)
+- [腾讯金融科技](https://www.fitgroup.com/)
+- [腾云天下](https://www.talkingdata.com/)
+- [天创信用](http://www.ypcredit.com/)
+- [天云大数据](http://www.beagledata.com/)
+- [同盾科技](https://www.tongdun.cn/)
+- [通付盾](https://www.tongfudun.com/)
+- [通联数据](https://www.datayes.com/)
+- [微众税银](https://www.vzoom.com/)
+- [微众银行](https://www.webank.com/)
+- [我来贷](https://m.wolaidai.com/)
+- [厦门国金](https://www.xfintech.com.cn/)
+- [小雨伞保险](https://www.xiaoyusan.com/)
+- [信用算力](http://chinacreditforce.com/)
+- [雪球](https://xueqiu.com/)
+- [寻汇](https://www.sunrate.com/)
+- [有鱼普惠](https://www.youyuwo.com/)
+- [中安金控](http://www.zafh.com.cn/)
+- [汇付天下](https://www.huifu.com/)
+- [品钛](https://www.pintec.com/)
+- [融360](https://www.rong360.com/)
+- [威富通](https://www.swiftpass.cn/)
+- [51信用卡](https://www.u51.com/)
+- [宜人贷](https://www.yirendai.com/)
+- [众安保险](https://www.zhongan.com/)
 
 
 ### 毕马威2017中国金融科技50
@@ -112,7 +171,8 @@
 - [最惠保](https://www.zuihuibao.com/)
 
 
-##### 参考：  
+##### 参考：
+* [2018-12-28 毕马威发布2018中国领先金融科技企业50榜单（第三届）](https://mp.weixin.qq.com/s/YM9tzTXUqp7xkgcEBIrNmA)
 * [PDF 全文-2017年毕马威中国领先金融科技企业50](https://assets.kpmg.com/content/dam/kpmg/cn/pdf/zh/2017/12/2017-fintech-50.pdf)
 * [PDF 全文-2016年毕马威中国领先金融科技公司50](https://assets.kpmg.com/content/dam/kpmg/cn/pdf/zh/2016/09/2016-china-leading-fintech-50.pdf)
 * [分析 & PPT下载：毕马威 Fintech 50强商业模式再发现](http://blog.memect.cn/?p=2565)
