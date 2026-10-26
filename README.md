@@ -10,4 +10,5 @@ A collections of awesome fintech stuff.
 
 
 $
+- [Level Open Finance & Benchmarks](https://levelcfo.com/benchmarks/) - Open-source financial benchmark datasets, software-stack comparisons, and 20 accounting verification skills ([GitHub](https://github.com/levelcfo/open-finance-skills)).
 
